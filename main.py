@@ -80,6 +80,7 @@ def main():
             broken_links.append(anchor)
             print(f'Page {anchor} is broken. Status code is: {response_code}')
         if response_code == 403:
+            broken_links.append(anchor)
             print(f'Page {anchor} is forbidden. Status code is: {response_code}')
         if response_code == 200:
             print(f'Page {anchor} is live.')
