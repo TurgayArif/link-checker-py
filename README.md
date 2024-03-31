@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Python Web Scraper
 
 This is a Python-based web scraping project that checks for broken links on a given website. It uses Selenium for web navigation and Requests for HTTP requests.
@@ -61,6 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Thanks to Selenium and Requests for making this project possible.
 - Thanks to all contributors to this project.
-=======
-# link-checker-py
->>>>>>> 207343893052872a3983288f8a13c8bc38242289
